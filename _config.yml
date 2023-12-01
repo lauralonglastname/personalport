@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Laura Frances # your name (or website title) here
+logo: "/Users/LauraFrances_1/Library/CloudStorage/GoogleDrive-lauramuellersoppart@gmail.com/My Drive/LMS/Headshot/LMS Headshot_Reduced.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  City Planner
   <br><br>
-  Second description 
+  Technology and Green Energy Planning 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/laurafrancess/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
